@@ -3,7 +3,6 @@
 
 ## I'm a Passionate developer!!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently creating Back-End projects with Nodejs
 - 👯 I’m looking to working on more complex projects.
 - 🥅 Future Goals: Contribute more to Open Source projects
